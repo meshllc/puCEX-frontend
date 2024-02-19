@@ -22,7 +22,7 @@ const localConfig = {
   logo: "${LOGO}",
   themes: [
     {
-      main_color: "#2A2259",
+      main_color: "#0A141D",
       second_color: "#ffac2a",
       cancel_color: "#d93d47",
       login_background: "#36373c",
@@ -35,8 +35,8 @@ const localConfig = {
       border_color: "#f0f0f0",
     },
     {
-      main_color: "#2A2259",
-      second_color: "#ffac2a",
+      main_color: "#0A141D",
+      second_color: "#F5B313",
       cancel_color: "#d93d47",
       login_background: "#36373c",
       login_text: "white",
@@ -44,7 +44,7 @@ const localConfig = {
       main_text: "#888888",
       input_color: "#242424",
       input_text: "#888888",
-      block_color: "#242424",
+      block_color: "#1A232B",
       border_color: "#353535",
     },
   ],
